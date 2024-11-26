@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HeavensKitchen</string>
+
+    <string-array name="type_of_food_options">
+        <item>Sobremesa</item>
+        <item>Francesa</item>
+        <item>Italiana</item>
+        <item>Japonesa</item>
+        <item>Portuguesa</item>
+        <item>Brasileira</item>
+        <item>Chinesa</item>
+        <item>Indiana</item>
+        <item>Vegetariana</item>
+        <item>Outro</item>
+    </string-array>
+    <string name="title_activity_home">Home</string>
+</resources>
